@@ -1,0 +1,6 @@
+Unfortunately it has many keys
+that don't work.
+and it malfunctioned right out of the box.
+It lags and is unresponsive at times,
+it disconnects from the USB dongle
+and needs to be re-setup,

@@ -1,0 +1,5 @@
+It depends on connecting to the Samsung servers through your internet connection,
+and on some days, their servers are overwhelmed
+but the worst part is Samsung
+don't have a firmware with latest flash & DIVX file support as of today
+the Apps didn't work after the first week.

@@ -1,0 +1,3 @@
+The keys themselves do not press down well.
+The layout of the keys makes it difficult for me to use, with keys like the backspace,
+surrounded by other small keys such as Home & End,
