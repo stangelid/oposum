@@ -1,6 +1,6 @@
 # OpoSum: Opinion Summarization from User Reviews
 
-This repo will soon hold all code and data from the following papers:
+This repo will hold all code and data from the following papers:
 
 > **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
 > Stefanos Angelidis, Mirella Lapata. 2018. <br/>
@@ -14,4 +14,4 @@ This repo will soon hold all code and data from the following papers:
 
 In the process of migrating data and code here.
 
-Proper README file to be updated this week :)
+Proper README file once migration is complete.
