@@ -8,7 +8,7 @@ import operator
 import argparse
 from random import sample, seed
 from math import ceil
-from preprocess import chunks, special_len, line_to_words, clean_str
+from prep_hier_hdf5 import chunks, special_len, line_to_words, clean_str
 
 def load_data(fname, args, word2id):
     """

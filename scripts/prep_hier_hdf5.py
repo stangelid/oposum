@@ -189,7 +189,7 @@ def load_data(file_list, args):
                 first_line = False
                 doc = []
                 doc_orig = []
-                label, rcode = line.split()
+                rcode, label = line.split()
                 label = int(label)
 
         f.close()
