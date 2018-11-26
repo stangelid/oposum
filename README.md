@@ -1,6 +1,6 @@
 # OpoSum: Opinion Summarization from User Reviews
 
-This repo will hold all code and data from the following papers:
+This repo holds all code and data from the following papers:
 
 > **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
 > Stefanos Angelidis, Mirella Lapata. 2018. <br/>
@@ -44,3 +44,8 @@ Preprocessing for **MATE**:
 ./scripts/prep_mate.sh bags_and_cases
 ```
 
+---
+
+*__TBA:__ Instrutions for training and testing models, opinion extraction scripts*
+
+---
