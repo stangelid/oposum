@@ -9,6 +9,8 @@ import argparse
 from random import sample, seed
 from math import ceil
 
+from prep_hdf5 import load_bin_vec
+
 def chunks(l, n):
     for i in xrange(0, len(l), n):
         yield l[i:i+n]
