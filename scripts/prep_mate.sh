@@ -13,7 +13,7 @@ base=`dirname $0`
 echo
 
 ./scripts/prep_hdf5_test.py \
-    --data ./data/gold/aspects/"$domain"-dev.asp \
+    --data ./data/gold/aspects/"$domain"-tst.asp \
     --name ./data/preprocessed/"$upper"_MATE_TEST \
     --vocab ./data/preprocessed/"$upper"_MATE_word_mapping.txt \
     --products ./data/preprocessed/"$upper"_MATE_product_mapping.txt \
