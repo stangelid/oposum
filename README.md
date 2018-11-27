@@ -34,6 +34,9 @@ Preprocessing for **MILNET**:
 
 ```bash
 # replace bags_and_cases with any of the domains in ./data/train
+# this script will download the pre-trained GoogleNews word2vec
+# embeddings. If you already have these, place the file
+# GoogleNews-vectors-negative300.bin in ./w2v
 ./scripts/prep_milnet.sh bags_and_cases
 ```
 
