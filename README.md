@@ -33,9 +33,9 @@ python -c "import nltk; nltk.download('wordnet'); nltk.download('stopwords')"
 Preprocessing for **MILNET**:
 
 ```bash
-# this script will download the pre-trained GoogleNews word2vec
-# embeddings. If you already have these, place the file
-# GoogleNews-vectors-negative300.bin in ./w2v
+# this script will also download the pre-trained GoogleNews
+# word2vec embeddings. If you already have these, place the
+# file GoogleNews-vectors-negative300.bin in ./w2v
 
 # replace bags_and_cases with any of the domains in ./data/train
 ./scripts/prep_milnet.sh bags_and_cases
