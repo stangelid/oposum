@@ -50,6 +50,3 @@ Preprocessing for **MATE**:
 
 ---
 
-*__TBA:__ Instrutions for training and testing models, opinion extraction scripts*
-
----
